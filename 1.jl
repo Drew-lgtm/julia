@@ -1,3 +1,5 @@
+# sum of all numbers divisible by 3 or 5  up to 1 000
+
 max_number = 1000
 global result = 0
 
