@@ -1,3 +1,5 @@
+# count fibonacci numbers
+
 max_value = 3000000
 
 function fibonacci(n)
